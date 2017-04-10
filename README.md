@@ -1,0 +1,2 @@
+# studentsManagement
+基于Struts和Hibernate实现的学生信息管理系统
